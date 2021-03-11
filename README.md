@@ -1,6 +1,6 @@
 ![Quote](https://user-images.githubusercontent.com/32172698/89193301-16add580-d5a6-11ea-82b1-860bdedef196.png)
 
-Hello World; I'm Sully! I'm a .Net Web Developer at Join Solutions in Saudi Arabia. 
+Hello World; I'm Sully! I'm a .Net Web Developer. 
 I enjoy to make complex stuff looks very easy and simple to do. I'm also like to guide new developers to how to dig in software development.
 
 I believe in this quote: "Progress is progress not matter how small."
